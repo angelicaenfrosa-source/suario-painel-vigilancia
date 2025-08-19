@@ -1,0 +1,4 @@
+painel-vigilancia/
+│── painel_vigilancia.py
+│── requirements.txt
+│── README.md
